@@ -1,4 +1,4 @@
-### I am a Japanese student majoring in Statistics (Data Science emphasis) and minoring in Business at Brigham Young University.
+### I am a Japanese student majoring in Statistics (Data Science emphasis) and minoring in Business at Brigham Young University. I have internship experience at KPMG, BMW, Neighbor, and Cougar Consulting Group. 
 
 <!--
 **Kattsun2525/Kattsun2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
